@@ -1,4 +1,6 @@
 # Improve the Acceptance Rate Of Coffee House Coupons
+[Link to Jupyter Notebook](https://github.com/anjana250/mlai/blob/main/assignment_5_1_starter/prompt.ipynb)
+
 ## Background
 
 This analysis was done in the perspective of the company that sends out coupons to driver's phones for different businesses around the city. They recently got complaints from Coffee Houses because the acceptance rate of their coupons is around 49%. The Coffee House owners are comparing their acceptance rates to the higher acceptance rates of Restaurants Under $20 and Carry Away because they are at a similar price point. Reference Figure below. They want an analysis done on the types of customers that typically accept Coffee House coupons and target those drivers specifically.
