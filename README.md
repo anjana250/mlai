@@ -24,9 +24,11 @@ The data cleaning that has been done to this dataset is:
 * **First, I did some analysis to see what the impact of Marital Status, whether or not they have Children and Income is on Coupon Acceptance.**
 
 **HeatMap showing the relationship between marital status, children and income on acceptance rate**
+
 ![maritalstatus_children_heatmap](https://github.com/anjana250/mlai/assets/15185723/95b25dbd-38ee-49e1-a45d-46ec1bc5788b)
 
 **Bar plot showing the relationship between marital status on acceptance rate**
+
 ![couponmarital](https://github.com/anjana250/mlai/assets/15185723/8f3154ea-7741-46e2-af80-d0d08b2c9985)
 
 ### Conclusions of Heatmap for Marital Status and Children vs Income and Acceptance Rate by Marital Status:
@@ -38,9 +40,11 @@ The data cleaning that has been done to this dataset is:
 * **Next, I looked at the impact of Education, Age and Gender on Coupon Acceptance**
 
 **Bar Plot to visualize Acceptance Rate vs Educaton**
+
 ![couponacceptanceEducation](https://github.com/anjana250/mlai/assets/15185723/a7bbc3bf-8a02-416c-91ce-0b5bf18e5f2f)
 
 **Heat map to visualize the relationship between age, gender and Education on Coffee House coupon Acceptance**
+
 ![education_age_heatmap](https://github.com/anjana250/mlai/assets/15185723/6ae0ffa3-0ee4-467a-9592-5e026de0a723)
 
 ### Conclusions from Age vs Education and Gender Heatmap and Education vs Acceptance Bar Graphs:
@@ -55,6 +59,7 @@ It looks like age and education have a large impact on whether someone accepts a
 * **Looking at the impact of Desitnation Coupon Acceptance**
   
 **Bar Plot visualizing how likely Drivers will accept based on their destination**
+
 ![couponDestination](https://github.com/anjana250/mlai/assets/15185723/46f665ab-448a-4c28-a521-0fa667e82a96)
 
 ### Conclusions from Destination vs Acceptance Bar Graph:
@@ -64,12 +69,15 @@ People are less likely to accept if they are headed home and more likely to acce
 * **Looking at the impact of Weather, Direction and Passenger on Coupon Acceptance**
 
 **Bar Plot to visualize Acceptance Rates based on Weather and Direction they are travelling**
+
 ![coffeeacceptanceWeather](https://github.com/anjana250/mlai/assets/15185723/a742f95b-24ed-4170-810d-88706968373a)
 
 **Bar Plot to visualize Acceptance Rates based on Passenger Type**
+
 ![couponpassenger](https://github.com/anjana250/mlai/assets/15185723/2787d03f-35eb-40a9-83ee-200c57fc2f89)
 
 **Heat map to visualize the relationship between Passenger, Weather and Destination on Coffee House coupon Acceptance**
+
 ![passenger_weather_dest_heatmap](https://github.com/anjana250/mlai/assets/15185723/3cf798aa-958d-4e88-bd75-499dbe10a33f)
 
 ### Conclusions from Number of Coffee House Visits vs Passenger, Weather and Temperature Heatmap and Barplots:
@@ -82,9 +90,11 @@ This Heat Map is very fascinating because there are many instances where everyon
 * **Looking at the impact of Age and Coffee House Attendence on Coupon Acceptance**
   
 **Bar Graph looking at the Acceptance rate of Coffee House coupon by Age**
+
 ![coffeeacceptanceAge](https://github.com/anjana250/mlai/assets/15185723/96fad4cb-efd4-40dd-81ca-7590e0bfd1e5)
 
 **Heat map to visualize the relationship between Age and Coffee House Attendence on Coffee House coupon Acceptance**
+
 ![couponacceptanceage_coffee_heatmap](https://github.com/anjana250/mlai/assets/15185723/1de2ec36-f09a-4656-80d2-fed5f9c548e7)
 
 ### Conclusions from Acceptance Rate by Age Bar Graph and  Number of Coffee House Visits vs Age Heatmap:
