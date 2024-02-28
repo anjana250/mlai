@@ -5,7 +5,7 @@
 
 This analysis was done in the perspective of the company that sends out coupons to driver's phones for different businesses around the city. They recently got complaints from Coffee Houses because the acceptance rate of their coupons is around 49%. The Coffee House owners are comparing their acceptance rates to the higher acceptance rates of Restaurants Under $20 and Carry Away because they are at a similar price point. Reference Figure below. They want an analysis done on the types of customers that typically accept Coffee House coupons and target those drivers specifically.
 
-![couponacceptance](https://github.com/anjana250/mlai/assets/15185723/0dd427fd-e380-4491-88b0-fa19946e162f)
+![couponacceptance](https://github.com/anjana250/mlai/assets/15185723/1c96a06f-fdb0-44fe-850e-83d45991ed9c)
 
 ## Business Goals and KPI
 1. Get a better understanding of which customers are likely to accept a Coffee House coupon
