@@ -74,7 +74,7 @@ People are less likely to accept if they are headed home and more likely to acce
 
 **Bar Plot to visualize Acceptance Rates based on Weather and Direction they are travelling**
 
-![coffeeacceptanceWeather](https://github.com/anjana250/mlai/assets/15185723/f19dfddb-05cd-43ac-84da-609a1ae6df31)
+![coffeeacceptanceWeather](https://github.com/anjana250/mlai/assets/15185723/9d62fb63-9681-4ff2-b228-3fbe95eae138)
 
 **Bar Plot to visualize Acceptance Rates based on Passenger Type**
 
